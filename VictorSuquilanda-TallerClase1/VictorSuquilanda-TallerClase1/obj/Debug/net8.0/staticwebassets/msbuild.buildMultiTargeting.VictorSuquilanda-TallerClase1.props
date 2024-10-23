@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VictorSuquilanda-TallerClase1.props" />
+</Project>
