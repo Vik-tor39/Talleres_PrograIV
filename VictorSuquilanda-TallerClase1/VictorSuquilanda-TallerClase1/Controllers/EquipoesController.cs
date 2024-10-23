@@ -48,7 +48,7 @@ namespace VictorSuquilanda_TallerClase1.Controllers
         // GET: Equipoes/Create
         public IActionResult Create()
         {
-            ViewData["IdEstadio"] = new SelectList(_context.Set<Estadio>(), "Id", "Id");
+            ViewData["IdEstadio"] = new SelectList(_context.Set<Estadio>(), "Id", "Name");
             return View();
         }
 
@@ -65,7 +65,7 @@ namespace VictorSuquilanda_TallerClase1.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["IdEstadio"] = new SelectList(_context.Set<Estadio>(), "Id", "Id", equipo.IdEstadio);
+            ViewData["IdEstadio"] = new SelectList(_context.Set<Estadio>(), "Id", "Name", equipo.IdEstadio);
             return View(equipo);
         }
 

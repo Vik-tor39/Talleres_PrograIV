@@ -12,7 +12,7 @@ namespace VictorSuquilanda_TallerClase1.Models
         public string Posicion { get; set; }
         [Range(0, 100)]
         public int Edad { get; set; }
-        public Equipo Equipo { get; set; }
+        public Equipo? Equipo { get; set; }
         [ForeignKey("Equipo")]
         public int IdEquipo { get; set; }
     }

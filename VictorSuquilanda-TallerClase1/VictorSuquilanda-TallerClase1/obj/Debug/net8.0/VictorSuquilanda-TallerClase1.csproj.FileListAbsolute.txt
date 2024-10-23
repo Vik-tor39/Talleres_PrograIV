@@ -256,3 +256,4 @@ C:\Users\victo\source\Talleres_ProgaIV\VictorSuquilanda-TallerClase1\VictorSuqui
 C:\Users\victo\source\Talleres_ProgaIV\VictorSuquilanda-TallerClase1\VictorSuquilanda-TallerClase1\obj\Debug\net8.0\VictorSuquilanda-TallerClase1.pdb
 C:\Users\victo\source\Talleres_ProgaIV\VictorSuquilanda-TallerClase1\VictorSuquilanda-TallerClase1\obj\Debug\net8.0\VictorSuquilanda-TallerClase1.genruntimeconfig.cache
 C:\Users\victo\source\Talleres_ProgaIV\VictorSuquilanda-TallerClase1\VictorSuquilanda-TallerClase1\obj\Debug\net8.0\ref\VictorSuquilanda-TallerClase1.dll
+C:\Users\victo\source\Talleres_ProgaIV\VictorSuquilanda-TallerClase1\VictorSuquilanda-TallerClase1\obj\Debug\net8.0\VictorSuquilanda-TallerClase1.sourcelink.json

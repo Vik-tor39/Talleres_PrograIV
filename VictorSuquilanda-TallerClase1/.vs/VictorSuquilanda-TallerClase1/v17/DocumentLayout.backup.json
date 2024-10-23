@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\migrations\\20241023070549_migraciontaller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|solutionrelative:victorsuquilanda-tallerclase1\\migrations\\20241023070549_migraciontaller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\views\\jugadors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|solutionrelative:victorsuquilanda-tallerclase1\\views\\jugadors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|solutionrelative:victorsuquilanda-tallerclase1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\models\\estadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|solutionrelative:victorsuquilanda-tallerclase1\\models\\estadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\controllers\\equipoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|solutionrelative:victorsuquilanda-tallerclase1\\controllers\\equipoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\views\\equipoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|solutionrelative:victorsuquilanda-tallerclase1\\views\\equipoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|solutionrelative:victorsuquilanda-tallerclase1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\controllers\\jugadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|solutionrelative:victorsuquilanda-tallerclase1\\controllers\\jugadorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\controllers\\estadioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|solutionrelative:victorsuquilanda-tallerclase1\\controllers\\estadioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|solutionrelative:victorsuquilanda-tallerclase1\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\models\\estadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|solutionrelative:victorsuquilanda-tallerclase1\\models\\estadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|solutionrelative:victorsuquilanda-tallerclase1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\controllers\\equipoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|solutionrelative:victorsuquilanda-tallerclase1\\controllers\\equipoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7171A5E2-A658-4FEC-8ECC-2C3AEB2F60F5}|VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1.csproj|c:\\users\\victo\\source\\talleres_progaiv\\victorsuquilanda-tallerclase1\\victorsuquilanda-tallerclase1\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,97 +46,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241023070549_MigracionTaller1.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Migrations\\20241023070549_MigracionTaller1.cs",
-              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Migrations\\20241023070549_MigracionTaller1.cs",
-              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Migrations\\20241023070549_MigracionTaller1.cs",
-              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Migrations\\20241023070549_MigracionTaller1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:05:50.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\appsettings.json",
-              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\appsettings.json",
-              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\appsettings.json",
-              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-23T07:02:58.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EstadiosController.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Controllers\\EstadiosController.cs",
-              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Controllers\\EstadiosController.cs",
-              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Controllers\\EstadiosController.cs",
-              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Controllers\\EstadiosController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T06:55:04.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JugadorsController.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Controllers\\JugadorsController.cs",
-              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Controllers\\JugadorsController.cs",
-              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Controllers\\JugadorsController.cs",
-              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Controllers\\JugadorsController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T06:54:26.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EquipoesController.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Controllers\\EquipoesController.cs",
-              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Controllers\\EquipoesController.cs",
-              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Controllers\\EquipoesController.cs",
-              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Controllers\\EquipoesController.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAIwAoAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T06:53:36.383Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Views\\Equipoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Views\\Equipoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Views\\Equipoes\\Index.cshtml",
+              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Views\\Equipoes\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T08:57:21.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Equipo.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Models\\Equipo.cs",
-              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Models\\Equipo.cs",
-              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Models\\Equipo.cs",
-              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Models\\Equipo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBEAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T06:38:53.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Estadio.cs",
-              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Models\\Estadio.cs",
-              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Models\\Estadio.cs",
-              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Models\\Estadio.cs",
-              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Models\\Estadio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T06:38:03.938Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Views\\Jugadors\\Index.cshtml",
+              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Views\\Jugadors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Views\\Jugadors\\Index.cshtml",
+              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Views\\Jugadors\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T08:52:21.734Z",
               "EditorCaption": ""
             },
             {
@@ -143,9 +82,87 @@
               "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Models\\Jugador.cs",
               "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Models\\Jugador.cs",
               "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Models\\Jugador.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T06:37:53.15Z",
+              "WhenOpened": "2024-10-23T08:49:50.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JugadorsController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Controllers\\JugadorsController.cs",
+              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Controllers\\JugadorsController.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Controllers\\JugadorsController.cs",
+              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Controllers\\JugadorsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:49:26.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T07:47:32.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estadio.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Models\\Estadio.cs",
+              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Models\\Estadio.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Models\\Estadio.cs",
+              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Models\\Estadio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:39:17.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Models\\Equipo.cs",
+              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Models\\Equipo.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Models\\Equipo.cs",
+              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Models\\Equipo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:38:45.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T07:30:06.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EquipoesController.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Controllers\\EquipoesController.cs",
+              "RelativeDocumentMoniker": "VictorSuquilanda-TallerClase1\\Controllers\\EquipoesController.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\Talleres_ProgaIV\\VictorSuquilanda-TallerClase1\\VictorSuquilanda-TallerClase1\\Controllers\\EquipoesController.cs",
+              "RelativeToolTip": "VictorSuquilanda-TallerClase1\\Controllers\\EquipoesController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:53:36.383Z",
               "EditorCaption": ""
             }
           ]

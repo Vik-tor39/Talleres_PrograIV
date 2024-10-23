@@ -3,6 +3,51 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
+    <h1 class="display-4">LigaPro-Ecuador (Admin Page)</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div id="carouselExampleCaptions" class="carousel slide">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <a asp-controller="Equipoes" asp-action="Index">
+                <img class="d-block w-100" src="https://i0.wp.com/www.fansdelfootball.com/wp/wp-content/uploads/2020/02/Liga-Pro-2020-equipos.png?fit=633%2C380&ssl=1" alt="First slide">
+            </a>
+            <div class="carousel-caption d-none d-md-block">
+                <h5>EQUIPOS</h5>
+                <p>Gestiona los equipos de la LigaPro 2024</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <a asp-controller="Jugadors" asp-action="Index">
+                <img class="d-block w-100" src="https://orbitadeportiva.net/wp-content/uploads/2023/12/LigaPro-2023.jpg" alt="Second slide">
+            </a>
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Jugadores</h5>
+                <p>Gestiona los jugadores de la LigaPro 2024</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <a asp-controller="Estadios" asp-action="Index">
+                <img class="d-block w-100" src="https://ecuadornews.com.ec/wp-content/uploads/2019/12/EN_Deportes_Jue191219.jpg" alt="Third slide">
+            </a>
+            <div class="carousel-caption d-none d-md-block">
+                <h5>ESTADIOS</h5>
+                <p>Gestiona los estadios de la LigaPro 2024</p>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
 </div>
