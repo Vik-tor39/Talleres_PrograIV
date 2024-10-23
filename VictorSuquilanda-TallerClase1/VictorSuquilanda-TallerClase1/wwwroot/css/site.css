@@ -12,6 +12,17 @@ html {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
+.text-con-fondo {
+    background-color: rgba(0, 0, 0, 0.7); /* Fondo semitransparente */
+    color: white; /* Texto blanco */
+    padding: 20px; /* Espaciado alrededor del texto */
+    font-size: 18px; /* Tamaño de fuente */
+    border-radius: 10px; /* Bordes redondeados */
+    max-width: 600px; /* Ancho máximo del contenedor */
+    margin: 20px auto; /* Centrar el contenedor */
+    line-height: 1.6; /* Espaciado entre líneas */
+}
+
 html {
   position: relative;
   min-height: 100%;
