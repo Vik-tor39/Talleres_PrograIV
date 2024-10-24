@@ -23,6 +23,7 @@ namespace VictorSuquilanda_TallerClase1.Controllers
         public async Task<IActionResult> Index()
         {
             var victorSuquilanda_TallerClase1Context = _context.Jugador.Include(j => j.Equipo);
+            ViewBag.Equipos = await _context.Equipo.ToListAsync();
             return View(await victorSuquilanda_TallerClase1Context.ToListAsync());
         }
 

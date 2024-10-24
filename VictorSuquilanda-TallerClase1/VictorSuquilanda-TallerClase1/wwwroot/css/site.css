@@ -12,6 +12,13 @@ html {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
+.main-fondo {
+    background-color: #f0f0f0; /* Cambiar el color de fondo */
+    background-image: url('https://img.freepik.com/free-photo/soccer-balloon-camp-monochrome-scene-generative-ai_188544-9745.jpg'); /* Imagen de fondo */
+    background-size: cover; /* Para que la imagen cubra todo el fondo */
+    background-position: center;
+}
+
 .text-con-fondo {
     background-color: rgba(0, 0, 0, 0.7); /* Fondo semitransparente */
     color: white; /* Texto blanco */

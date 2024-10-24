@@ -11,8 +11,8 @@ using VictorSuquilanda_TallerClase1.Data;
 namespace VictorSuquilanda_TallerClase1.Migrations
 {
     [DbContext(typeof(VictorSuquilanda_TallerClase1Context))]
-    [Migration("20241023173334_MigracionTaller1")]
-    partial class MigracionTaller1
+    [Migration("20241023221307_Migracion1")]
+    partial class Migracion1
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

@@ -9,7 +9,20 @@
 <p>
     <a asp-action="Create" class="btn btn-outline-secondary">Add Jugador</a>
 </p>
-<table class="table table-striped">
+
+<div class="mb-3">
+    <label for="filtrarPorEquipo" class="mb-2">Filtro</label>
+    <select id="filtrarPorEquipo" class="form-control" placeholder="Escoge un equipo para filtrar tu búsqueda">
+        <option value="">Ver todos</option>
+        @foreach (var equipo in ViewBag.Equipos)
+        {
+                <option value="@equipo.Id">@equipo.Name</option>
+        }
+    </select>
+</div>
+
+
+<table id="playersTable" class="table table-striped">
     <thead>
         <tr>
             <th>
@@ -29,7 +42,7 @@
     </thead>
     <tbody>
 @foreach (var item in Model) {
-        <tr>
+            <tr equipo-id="@item.IdEquipo">
             <td>
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
@@ -51,3 +64,21 @@
 }
     </tbody>
 </table>
+
+@section Scripts {
+        <script>
+            document.getElementById('filtrarPorEquipo').addEventListener('change', (event) => {
+                const selectedEquipoId = event.target.value;
+                    const rows = document.querySelectorAll('#playersTable tbody tr');
+
+                rows.forEach(row => {
+                    const equipoId = row.getAttribute('equipo-id'); 
+                    if (selectedEquipoId === "" || equipoId === selectedEquipoId) {
+                        row.style.display = ""; 
+                    } else {
+                        row.style.display = "none";
+                    }
+                });
+            });
+        </script>
+}

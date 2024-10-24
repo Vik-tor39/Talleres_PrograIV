@@ -5,7 +5,7 @@
 namespace VictorSuquilanda_TallerClase1.Migrations
 {
     /// <inheritdoc />
-    public partial class MigracionTaller1 : Migration
+    public partial class Migracion1 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
