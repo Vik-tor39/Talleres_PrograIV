@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DataAppMaui.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Image
+                Source="dotnet_bot.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot net bot in a hovercraft number nine" />
+
+            <Label
+                x:Name="Label_Id"
+                Text="{Binding Id}" />
+            <Label
+                x:Name="Label_Name"
+                Text="{Binding Name}" />
+            <Label
+                x:Name="Label_Carrera"
+                Text="{Binding Carrera}" />
+            <Button
+                x:Name="BotonSaveStudent"
+                Text="Guardar estudiante en archivo"
+                Clicked="BotonSaveStudent_Clicked">
+                
+            </Button>
+            
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
