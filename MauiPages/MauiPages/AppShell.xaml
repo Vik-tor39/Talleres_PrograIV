@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MauiPages.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MauiPages"
+    Title="MauiPages">
+    <!--
+    Se quita esta línea, porque en este caso si contamos con un Flyout:
+    Shell.FlyoutBehavior="Flyout"
+    -->
+
+    <!--
+    <FlyoutItem 
+        Title="MainPage"
+        Icon="dotnet_bot.png">
+        <ShellContent
+            Title="Home"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
+    </FlyoutItem>
+
+    <FlyoutItem 
+        Title="Página 1">
+        <ShellContent
+        Title="Page_1"
+        ContentTemplate="{DataTemplate local:Page1}"
+        Route="Page1" />
+    </FlyoutItem>
+
+    <FlyoutItem 
+        Title="Página 2"
+        Icon="dotnet_bot.png">
+        <ShellContent
+        Title="Page_2"
+        ContentTemplate="{DataTemplate local:Page2}"
+        Route="Page2" />
+    </FlyoutItem>
+
+    <FlyoutItem 
+        Title="Página 3"
+        Icon="dotnet_bot.png">
+        <ShellContent
+        Title="Page_3"
+        ContentTemplate="{DataTemplate local:Page3}"
+        Route="Page3" />
+    </FlyoutItem>
+    -->
+
+    <!--
+    Hay chance buscar estilos para TabBar buscando 'tabbar maui'.
+    Esto nos permitirá definir un nuevo conj de estilos en la carpeta de estilos, obviamente
+    -->
+    <TabBar>
+        <Tab
+            Title="Main Page"
+            Icon="dotnet_bot.png">
+            <ShellContent
+                Title="Home"
+                ContentTemplate="{DataTemplate local:MainPage}"
+                Route="MainPage" />
+        </Tab>
+
+        <Tab
+            Title="Página 1"
+            Icon="dotnet_bot.png">
+            <ShellContent
+                Title="Página 1"
+                ContentTemplate="{DataTemplate local:Page1}"
+                Route="Page1" />
+        </Tab>
+
+        <Tab
+            Title="Página 2"
+            Icon="dotnet_bot.png">
+            <ShellContent
+                Title="Página 2"
+                ContentTemplate="{DataTemplate local:Page2}"
+                Route="Page2" />
+        </Tab>
+
+        <Tab
+            Title="Página 3"
+            Icon="dotnet_bot.png">
+            <ShellContent
+                Title="Página 3"
+                ContentTemplate="{DataTemplate local:Page3}"
+                Route="Page3" />
+        </Tab>
+    </TabBar>
+
+
+</Shell>
